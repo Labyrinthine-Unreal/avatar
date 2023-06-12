@@ -1,0 +1,29 @@
+{
+    "Guide": {
+        "checkpoints": [
+            {
+                "steps": 1660,
+                "file_path": "results\\Avatar\\Guide\\Guide-1660.onnx",
+                "reward": 2.9939759036144578,
+                "creation_time": 1686592564.802338,
+                "auxillary_file_paths": [
+                    "results\\Avatar\\Guide\\Guide-1660.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1660,
+            "file_path": "results\\Avatar\\Guide.onnx",
+            "reward": 2.9939759036144578,
+            "creation_time": 1686592564.802338,
+            "auxillary_file_paths": [
+                "results\\Avatar\\Guide\\Guide-1660.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.13.0+cpu"
+    }
+}
