@@ -7,7 +7,9 @@ cd path/to/unity
 
 Pip Installs:
   pip3 install ml-agents==0.28.0,
+  
   pip3 install ml-agents-envs: 0.28.0,
+  
   pip3 install PyTorch==1.13.0
 
 Unity Installs
